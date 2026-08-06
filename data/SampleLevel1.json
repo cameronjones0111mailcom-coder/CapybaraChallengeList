@@ -1,16 +1,16 @@
 {
-    "id": 10565740,
-    "name": "Bloodbath",
-    "author": "Riot",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Riot",
-    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+    "id": 146431959,
+    "name": "Chal That Looks Cool",
+    "author": "Realdust1",
+    "creators": ["realdust1","],
+    "verifier": "CapybaraoffGD",
+    "verification": "uuhhh idk",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Doogie",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "CapybaraoffGD",
+            "link": "none",
             "percent": 100,
             "hz": 144
         }
